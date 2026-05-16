@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 200" role="img" aria-label="Erin's Night's Shield Foundation">
+  <title>Erin's Night's Shield Foundation</title>
+  <style>
+    .erin{font-family:'Fraunces','Playfair Display',Georgia,serif;font-weight:600;letter-spacing:.04em;fill:#1f3a63}
+    .nights{font-family:'Fraunces','Playfair Display',Georgia,serif;font-weight:700;letter-spacing:.04em;fill:#1f3a63}
+    .shield{font-family:'Fraunces','Playfair Display',Georgia,serif;font-weight:700;letter-spacing:.04em;fill:#1f3a63}
+    .foundation{font-family:'Inter',sans-serif;font-weight:600;letter-spacing:.32em;fill:#1f3a63}
+  </style>
+  <!-- Stacked wordmark -->
+  <text x="20" y="56" class="erin" font-size="40">ERIN'S</text>
+  <text x="20" y="106" class="nights" font-size="56">NIGHT'S</text>
+  <text x="20" y="156" class="shield" font-size="56">SHIELD</text>
+  <text x="20" y="188" class="foundation" font-size="16">FOUNDATION</text>
+  <!-- Shield + star on the right -->
+  <g transform="translate(248, 36)">
+    <path d="M 50 4 L 84 8 L 88 14 L 88 48 C 88 75 72 95 50 106 C 28 95 12 75 12 48 L 12 14 L 16 8 Z" fill="#1f3a63"/>
+    <polygon points="66,24 68.5,31.7 76.5,31.7 70,36.4 72.5,44.1 66,39.4 59.5,44.1 62,36.4 55.5,31.7 63.5,31.7" fill="#FFF9F8"/>
+  </g>
+</svg>
